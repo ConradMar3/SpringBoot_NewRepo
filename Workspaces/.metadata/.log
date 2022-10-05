@@ -8678,3 +8678,327 @@ java.util.zip.ZipException: zip END header not found
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:21:52.508
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.fcEFilfl => OK
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:19.860
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/oomph/uss/updates/latest, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:23.659
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/oomph/uss/updates/latest/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:25.304
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/oomph/uss/updates/latest, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:30.477
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/oomph/uss/drops/nightly/N20180202-232207, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:34.138
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:35.037
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/6.11.0, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:35.969
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/updatesites/6.11.0.r201704240320, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:37.128
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/6.12.0, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:38.054
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/updatesites/6.12.0.r201709030044, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:38.912
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/6.13.1, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:39.844
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/updatesites/6.13.1.r201712040202, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:40.783
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/updatesites/6.13.1.r201712040515, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:41.672
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/6.14.2, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:42.620
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/updatesites/6.14.2.r201802161450, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:43.559
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/6.14.3, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:44.519
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/updatesites/6.14.3.r201802240500, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:45.454
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/7.0.0, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:46.388
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/updatesites/7.0.0.r201908191551, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:47.258
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/7.1.0, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:48.190
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/updatesites/7.1.0.r202001120626, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:49.098
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/7.2.0, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:49.996
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/updatesites/7.2.0.r202003151902, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:50.916
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/7.3.0, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:51.875
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/updatesites/7.3.0.r202008060316, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:52.777
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/7.4.0, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:53.914
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/updatesites/7.4.0.r202105021533, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:54.864
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/7.5.0, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:56.170
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/updatesites/7.5.0.r202201070709, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:57.151
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/7.6.1, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:22:58.057
+!MESSAGE Using unsafe http transport to retrieve http://testng.org/testng-p2-update-site/updatesites/7.6.1.r202207070546, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:23:16.691
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/technology/m2e/releases/, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:23:19.950
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/technology/m2e/releases/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:23:21.601
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/technology/m2e/releases/, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2022-10-05 12:23:27.394
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://download.eclipse.org/technology/m2e/releases/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:405)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:709)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:126)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:110)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$1.runModal(PreloadingRepositoryHandler.java:84)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2022-10-05 12:23:27.395
+!MESSAGE No repository found at http://download.eclipse.org/technology/m2e/releases/.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-05 12:23:33.934
+!MESSAGE Using unsafe http transport to retrieve http://download.oracle.com/otn_software/oepe/12.2.1.9/photon/repository/dependencies/, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:24:00.321
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:24:00.323
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2111afcf[org.springframework.tooling.boot.ls:1.33.0.202204250653(id=569)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:24:00.326
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:24:04.379
+!MESSAGE Boot LS startup time from start to initialized: 4041ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:24:04.592
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.SUkZWoUqisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:24:04.593
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:24:04.595
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:24:04.596
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:24:04.596
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:24:04.597
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.SUkZWoUq => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:24:04.606
+!MESSAGE classpath=76 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:24:04.611
+!MESSAGE buffering callback sts4.classpath.SUkZWoUq taco-cloud false 76
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:24:04.613
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:24:04.623
+!MESSAGE classpath=75 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:24:04.627
+!MESSAGE buffering callback sts4.classpath.SUkZWoUq taco-cloud-ch02 false 74
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:24:04.628
+!MESSAGE executing callback sts4.classpath.SUkZWoUq 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:24:05.627
+!MESSAGE executing callback sts4.classpath.SUkZWoUq SUCCESS [done]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2022-10-05 12:24:48.160
+!MESSAGE No remedy found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2022-10-05 12:24:48.343
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2022-10-05 12:24:48.343
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.343
+!MESSAGE Software being installed: M2E - Maven Integration for Eclipse 2.0.5.20220912-1211 (org.eclipse.m2e.feature.feature.group 2.0.5.20220912-1211)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.343
+!MESSAGE Software currently installed: m2e connector for build-helper-maven-plugin 0.15.0.201207090124 (org.sonatype.m2e.buildhelper.feature.feature.group 0.15.0.201207090124)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-10-05 12:24:48.343
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.343
+!MESSAGE Maven Integration for Eclipse JDT 1.9.0.20180606-2036 (org.eclipse.m2e.jdt 1.9.0.20180606-2036)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.343
+!MESSAGE M2E JDT Integration 1.18.3.20211112-0847 (org.eclipse.m2e.jdt 1.18.3.20211112-0847)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.343
+!MESSAGE M2E JDT Integration 2.0.1.20220901-1459 (org.eclipse.m2e.jdt 2.0.1.20220901-1459)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-10-05 12:24:48.343
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.343
+!MESSAGE From: M2E - Maven Integration for Eclipse 2.0.5.20220912-1211 (org.eclipse.m2e.feature.feature.group 2.0.5.20220912-1211)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.343
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.m2e.jdt [2.0.1.20220901-1459,2.0.1.20220901-1459]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-10-05 12:24:48.343
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.343
+!MESSAGE From: m2e connector for build-helper-maven-plugin 0.15.0.201207090124 (org.sonatype.m2e.buildhelper 0.15.0.201207090124)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.343
+!MESSAGE To: osgi.bundle; org.eclipse.m2e.jdt [1.1.0,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-10-05 12:24:48.343
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.343
+!MESSAGE From: m2e connector for build-helper-maven-plugin 0.15.0.201207090124 (org.sonatype.m2e.buildhelper.feature.feature.group 0.15.0.201207090124)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.343
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.sonatype.m2e.buildhelper [0.15.0.201207090124,0.15.0.201207090124]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2022-10-05 12:24:48.522
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2022-10-05 12:24:48.522
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.522
+!MESSAGE Software being installed: M2E - Maven Integration for Eclipse 2.0.5.20220912-1211 (org.eclipse.m2e.feature.feature.group 2.0.5.20220912-1211)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.523
+!MESSAGE Software currently installed: m2e connector for build-helper-maven-plugin 0.15.0.201207090124 (org.sonatype.m2e.buildhelper.feature.feature.group 0.15.0.201207090124)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-10-05 12:24:48.523
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.523
+!MESSAGE Maven Integration for Eclipse JDT 1.9.0.20180606-2036 (org.eclipse.m2e.jdt 1.9.0.20180606-2036)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.523
+!MESSAGE M2E JDT Integration 1.18.3.20211112-0847 (org.eclipse.m2e.jdt 1.18.3.20211112-0847)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.523
+!MESSAGE M2E JDT Integration 2.0.1.20220901-1459 (org.eclipse.m2e.jdt 2.0.1.20220901-1459)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-10-05 12:24:48.523
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.523
+!MESSAGE From: M2E - Maven Integration for Eclipse 2.0.5.20220912-1211 (org.eclipse.m2e.feature.feature.group 2.0.5.20220912-1211)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.523
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.m2e.jdt [2.0.1.20220901-1459,2.0.1.20220901-1459]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-10-05 12:24:48.523
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.523
+!MESSAGE From: m2e connector for build-helper-maven-plugin 0.15.0.201207090124 (org.sonatype.m2e.buildhelper 0.15.0.201207090124)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.523
+!MESSAGE To: osgi.bundle; org.eclipse.m2e.jdt [1.1.0,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-10-05 12:24:48.523
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.523
+!MESSAGE From: m2e connector for build-helper-maven-plugin 0.15.0.201207090124 (org.sonatype.m2e.buildhelper.feature.feature.group 0.15.0.201207090124)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:24:48.523
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.sonatype.m2e.buildhelper [0.15.0.201207090124,0.15.0.201207090124]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2022-10-05 12:25:05.148
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2022-10-05 12:25:05.148
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.148
+!MESSAGE Software being installed: M2E - Maven Integration for Eclipse 2.0.5.20220912-1211 (org.eclipse.m2e.feature.feature.group 2.0.5.20220912-1211)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.148
+!MESSAGE Software currently installed: m2e connector for build-helper-maven-plugin 0.15.0.201207090124 (org.sonatype.m2e.buildhelper.feature.feature.group 0.15.0.201207090124)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-10-05 12:25:05.148
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.148
+!MESSAGE Maven Integration for Eclipse JDT 1.9.0.20180606-2036 (org.eclipse.m2e.jdt 1.9.0.20180606-2036)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.148
+!MESSAGE M2E JDT Integration 1.18.3.20211112-0847 (org.eclipse.m2e.jdt 1.18.3.20211112-0847)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.148
+!MESSAGE M2E JDT Integration 2.0.1.20220901-1459 (org.eclipse.m2e.jdt 2.0.1.20220901-1459)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-10-05 12:25:05.148
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.148
+!MESSAGE From: M2E - Maven Integration for Eclipse 2.0.5.20220912-1211 (org.eclipse.m2e.feature.feature.group 2.0.5.20220912-1211)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.148
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.m2e.jdt [2.0.1.20220901-1459,2.0.1.20220901-1459]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-10-05 12:25:05.148
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.148
+!MESSAGE From: m2e connector for build-helper-maven-plugin 0.15.0.201207090124 (org.sonatype.m2e.buildhelper 0.15.0.201207090124)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.148
+!MESSAGE To: osgi.bundle; org.eclipse.m2e.jdt [1.1.0,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-10-05 12:25:05.148
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.148
+!MESSAGE From: m2e connector for build-helper-maven-plugin 0.15.0.201207090124 (org.sonatype.m2e.buildhelper.feature.feature.group 0.15.0.201207090124)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.148
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.sonatype.m2e.buildhelper [0.15.0.201207090124,0.15.0.201207090124]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2022-10-05 12:25:05.152
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2022-10-05 12:25:05.153
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.153
+!MESSAGE Software being installed: M2E - Maven Integration for Eclipse 2.0.5.20220912-1211 (org.eclipse.m2e.feature.feature.group 2.0.5.20220912-1211)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.153
+!MESSAGE Software currently installed: m2e connector for build-helper-maven-plugin 0.15.0.201207090124 (org.sonatype.m2e.buildhelper.feature.feature.group 0.15.0.201207090124)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-10-05 12:25:05.153
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.153
+!MESSAGE Maven Integration for Eclipse JDT 1.9.0.20180606-2036 (org.eclipse.m2e.jdt 1.9.0.20180606-2036)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.153
+!MESSAGE M2E JDT Integration 1.18.3.20211112-0847 (org.eclipse.m2e.jdt 1.18.3.20211112-0847)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.153
+!MESSAGE M2E JDT Integration 2.0.1.20220901-1459 (org.eclipse.m2e.jdt 2.0.1.20220901-1459)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-10-05 12:25:05.153
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.153
+!MESSAGE From: M2E - Maven Integration for Eclipse 2.0.5.20220912-1211 (org.eclipse.m2e.feature.feature.group 2.0.5.20220912-1211)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.153
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.m2e.jdt [2.0.1.20220901-1459,2.0.1.20220901-1459]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-10-05 12:25:05.153
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.153
+!MESSAGE From: m2e connector for build-helper-maven-plugin 0.15.0.201207090124 (org.sonatype.m2e.buildhelper 0.15.0.201207090124)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.153
+!MESSAGE To: osgi.bundle; org.eclipse.m2e.jdt [1.1.0,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-10-05 12:25:05.153
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.153
+!MESSAGE From: m2e connector for build-helper-maven-plugin 0.15.0.201207090124 (org.sonatype.m2e.buildhelper.feature.feature.group 0.15.0.201207090124)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-10-05 12:25:05.153
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.sonatype.m2e.buildhelper [0.15.0.201207090124,0.15.0.201207090124]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:30:22.110
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.SUkZWoUq
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:30:22.111
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.SUkZWoUq
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:30:22.112
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-05 12:30:22.113
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.SUkZWoUq => OK
