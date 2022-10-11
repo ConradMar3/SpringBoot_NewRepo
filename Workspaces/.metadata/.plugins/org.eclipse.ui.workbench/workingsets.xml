@@ -5,6 +5,14 @@
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1664961557131_6" label="taco-cloud" name="taco-cloud">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taco-cloud" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taco-cloud-ch02" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taco-cloud-jdbctemplate" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taco-cloud-sd-jdbc" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taco-cloud-sd-jpa" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taco-cloud-sfc" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1665486102777_6" label="" name="">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taco-cloud-sd-cassandra" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taco-cloud-sd-mongodb" type="4"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1664958686821_2" label="Window Working Set" name="Aggregate for window 1664958686821"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1664959290247_3" label="Window Working Set" name="Aggregate for window 1664959290247"/>
