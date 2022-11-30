@@ -16,4 +16,9 @@ public class Ingredient {
         WRAP, PROTEIN, VEGGIES, CHEESE, SAUCE
     }
 
+	public Object getType() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
