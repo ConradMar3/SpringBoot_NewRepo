@@ -884,3 +884,220 @@
 2022-10-11 13:04:11,245 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-10-11 13:04:11,245 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-10-11 13:04:11,246 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 20:05:00,023 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-10-15 20:05:56,627 [Worker-7: Launching taco-cloud-sfc - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 20:05:56,635 [Worker-7: Launching taco-cloud-sfc - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-15 20:05:56,641 [Worker-7: Launching taco-cloud-sfc - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 20:05:56,665 [Worker-7: Launching taco-cloud-sfc - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2022-10-15 20:05:56,757 [Worker-7: Launching taco-cloud-sfc - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 20:05:56,757 [Worker-7: Launching taco-cloud-sfc - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-15 20:05:56,757 [Worker-7: Launching taco-cloud-sfc - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 20:06:00,641 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 20:06:00,641 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-15 20:06:00,643 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 20:06:00,644 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 20:06:00,648 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 20:06:00,648 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-15 20:06:00,648 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 09:43:31,054 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-10-26 09:44:48,647 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:44:48,650 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:44:48,660 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 09:44:48,851 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2022-10-26 09:44:48,869 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:44:48,869 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:44:48,870 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 09:44:57,470 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:44:57,471 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:44:57,476 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 09:44:57,492 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2022-10-26 09:44:57,500 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:44:57,500 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:44:57,500 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-28 09:44:43,191 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-28 09:45:35,382 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-28 09:45:35,387 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-28 09:45:35,395 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-28 09:45:35,462 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2022-11-28 09:45:35,476 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-28 09:45:35,476 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-28 09:45:35,482 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-28 09:45:38,181 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-28 09:45:38,182 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-28 09:45:38,183 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-28 09:45:38,197 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2022-11-28 09:45:38,211 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-28 09:45:38,211 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-28 09:45:38,212 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-28 09:45:59,163 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-28 09:45:59,164 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-28 09:45:59,168 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-28 09:45:59,168 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-28 09:45:59,180 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-28 09:45:59,180 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-28 09:45:59,180 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-29 06:16:44,180 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-30 02:37:59,542 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-30 02:38:02,359 [Worker-0: Loading available Gradle versions] ERROR o.e.b.c.i.u.g.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\ConradMaré\.cache\tooling\gradle\versions.json (Access is denied)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:291)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:234)
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:193)
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:181)
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:149)
+	at com.google.common.io.CharSource$StringCharSource.copyTo(CharSource.java:648)
+	at org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:184)
+	at org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:150)
+	at org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:133)
+	at org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersions.create(PublishedGradleVersions.java:117)
+	at org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:60)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-11-30 02:38:28,078 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-jdbctemplate:0.0.3-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-jdbctemplate\pom.xml.
+2022-11-30 02:38:34,799 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud:0.0.1-SNAPSHOT @ C:\Users\ConradMaré\Desktop\SpringBoot_NewRepo\SpringBoot_NewRepo\Workspaces\taco-cloud\pom.xml.
+2022-11-30 02:38:37,134 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sd-mongodb:0.0.4-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch04\tacos-sd-mongodb\pom.xml.
+2022-11-30 02:38:37,668 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud:0.0.1-SNAPSHOT @ C:\Users\ConradMaré\Desktop\SpringBoot_NewRepo\SpringBoot_NewRepo\Workspaces\taco-cloud\pom.xml.
+2022-11-30 02:38:46,805 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:38:46,806 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:38:46,815 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-30 02:38:46,858 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-30 02:38:47,005 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:38:47,006 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:38:47,006 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\SpringBoot_NewRepo\SpringBoot_NewRepo\Workspaces\taco-cloud\src\test\resources
+2022-11-30 02:38:48,163 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-jdbctemplate:0.0.3-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-jdbctemplate\pom.xml.
+2022-11-30 02:38:49,031 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-ch02:0.0.1-SNAPSHOT @ C:\Users\ConradMaré\Desktop\SpringBoot_NewRepo\SpringBoot_NewRepo\Workspaces\taco-cloud-ch02\pom.xml.
+2022-11-30 02:38:50,843 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:38:50,843 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:38:50,844 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-30 02:38:50,861 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-30 02:38:50,865 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:38:50,865 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:38:50,866 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\SpringBoot_NewRepo\SpringBoot_NewRepo\Workspaces\taco-cloud-ch02\src\test\resources
+2022-11-30 02:38:53,828 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-jdbctemplate:0.0.3-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-jdbctemplate\pom.xml.
+2022-11-30 02:38:54,844 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-jdbctemplate:0.0.3-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-jdbctemplate\pom.xml.
+2022-11-30 02:38:57,407 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:38:57,408 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:38:57,409 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-30 02:38:57,447 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2022-11-30 02:38:57,769 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:38:57,770 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:38:57,770 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-jdbctemplate\src\test\resources
+2022-11-30 02:38:59,921 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-jdbctemplate:0.0.3-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-jdbctemplate\pom.xml.
+2022-11-30 02:39:00,992 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud:0.0.1-SNAPSHOT @ C:\Users\ConradMaré\Desktop\SpringBoot_NewRepo\SpringBoot_NewRepo\Workspaces\taco-cloud\pom.xml.
+2022-11-30 02:39:01,673 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sd-cassandra:0.0.4-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch04\tacos-sd-cassandra\pom.xml.
+2022-11-30 02:39:04,561 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:04,562 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:04,563 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-30 02:39:04,596 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2022-11-30 02:39:04,647 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:04,647 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:04,648 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch04\tacos-sd-cassandra\src\test\resources
+2022-11-30 02:39:06,966 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sd-jdbc:0.0.3-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-sd-jdbc\pom.xml.
+2022-11-30 02:39:08,630 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:08,630 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:08,633 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-30 02:39:08,667 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2022-11-30 02:39:08,729 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:08,729 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:08,730 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-sd-jdbc\src\test\resources
+2022-11-30 02:39:10,793 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sd-jpa:0.0.3-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-sd-jpa\pom.xml.
+2022-11-30 02:39:13,076 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:13,077 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:13,078 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-30 02:39:13,106 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2022-11-30 02:39:13,318 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:13,318 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:13,319 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-sd-jpa\src\test\resources
+2022-11-30 02:39:15,854 [Worker-11: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-jdbctemplate:0.0.3-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-jdbctemplate\pom.xml.
+2022-11-30 02:39:16,959 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sd-mongodb:0.0.4-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch04\tacos-sd-mongodb\pom.xml.
+2022-11-30 02:39:19,762 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:19,763 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:19,764 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-30 02:39:19,789 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2022-11-30 02:39:19,852 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:19,852 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:19,852 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch04\tacos-sd-mongodb\src\test\resources
+2022-11-30 02:39:21,942 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-jdbctemplate:0.0.3-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-jdbctemplate\pom.xml.
+2022-11-30 02:39:22,961 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud:0.0.1-SNAPSHOT @ C:\Users\ConradMaré\Desktop\SpringBoot_NewRepo\SpringBoot_NewRepo\Workspaces\taco-cloud\pom.xml.
+2022-11-30 02:39:23,626 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sd-mongodb:0.0.4-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch04\tacos-sd-mongodb\pom.xml.
+2022-11-30 02:39:24,171 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sfc:0.0.5-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch05\taco-cloud-sfc\pom.xml.
+2022-11-30 02:39:24,551 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sd-cassandra:0.0.4-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch04\tacos-sd-cassandra\pom.xml.
+2022-11-30 02:39:25,206 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sfc:0.0.5-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch05\taco-cloud-sfc\pom.xml.
+2022-11-30 02:39:27,930 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:27,931 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:27,932 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-30 02:39:27,961 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2022-11-30 02:39:28,948 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:28,949 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:28,950 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-30 02:39:30,070 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-jdbctemplate:0.0.3-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-jdbctemplate\pom.xml.
+2022-11-30 02:39:30,783 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud:0.0.1-SNAPSHOT @ C:\Users\ConradMaré\Desktop\SpringBoot_NewRepo\SpringBoot_NewRepo\Workspaces\taco-cloud\pom.xml.
+2022-11-30 02:39:31,113 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sd-mongodb:0.0.4-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch04\tacos-sd-mongodb\pom.xml.
+2022-11-30 02:39:31,466 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sfc:0.0.5-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch05\taco-cloud-sfc\pom.xml.
+2022-11-30 02:39:31,786 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sd-cassandra:0.0.4-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch04\tacos-sd-cassandra\pom.xml.
+2022-11-30 02:39:32,153 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sd-jpa:0.0.3-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-sd-jpa\pom.xml.
+2022-11-30 02:39:32,425 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sd-jdbc:0.0.3-SNAPSHOT @ C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-sd-jdbc\pom.xml.
+2022-11-30 02:39:32,644 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-ch02:0.0.1-SNAPSHOT @ C:\Users\ConradMaré\Desktop\SpringBoot_NewRepo\SpringBoot_NewRepo\Workspaces\taco-cloud-ch02\pom.xml.
+2022-11-30 02:39:37,497 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:37,497 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:37,502 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-30 02:39:37,502 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-30 02:39:37,505 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:37,505 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:37,505 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\SpringBoot_NewRepo\SpringBoot_NewRepo\Workspaces\taco-cloud\src\test\resources
+2022-11-30 02:39:37,820 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:37,820 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:37,821 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-30 02:39:37,821 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-30 02:39:37,824 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:37,824 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:37,825 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\SpringBoot_NewRepo\SpringBoot_NewRepo\Workspaces\taco-cloud-ch02\src\test\resources
+2022-11-30 02:39:38,295 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:38,295 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:38,296 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-30 02:39:38,297 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-30 02:39:38,299 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:38,300 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:38,300 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-jdbctemplate\src\test\resources
+2022-11-30 02:39:38,804 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:38,805 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:38,805 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-30 02:39:38,805 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-30 02:39:38,808 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:38,808 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:38,808 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch04\tacos-sd-cassandra\src\test\resources
+2022-11-30 02:39:39,528 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:39,528 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:39,528 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-30 02:39:39,529 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-30 02:39:39,531 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:39,531 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:39,532 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-sd-jdbc\src\test\resources
+2022-11-30 02:39:39,972 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:39,972 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:39,972 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-30 02:39:39,973 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-30 02:39:39,975 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:39,975 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:39,976 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-sd-jpa\src\test\resources
+2022-11-30 02:39:40,693 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:40,694 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:40,697 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-30 02:39:40,697 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-30 02:39:40,700 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:40,700 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:40,700 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch04\tacos-sd-mongodb\src\test\resources
+2022-11-30 02:39:41,169 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:41,169 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:41,169 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-30 02:39:41,170 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-30 02:39:41,172 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:39:41,172 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:39:41,172 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-30 02:43:15,323 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:43:15,324 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:43:15,330 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-30 02:43:15,525 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2022-11-30 02:43:15,536 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 02:43:15,537 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-30 02:43:15,537 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
