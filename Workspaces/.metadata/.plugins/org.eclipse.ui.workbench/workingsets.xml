@@ -15,4 +15,5 @@
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1664958686821_2" label="Window Working Set" name="Aggregate for window 1664958686821"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1664959290247_3" label="Window Working Set" name="Aggregate for window 1664959290247"/>
+<mruList name="taco-cloud"/>
 </workingSetManager>
