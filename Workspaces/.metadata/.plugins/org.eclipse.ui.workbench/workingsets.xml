@@ -13,8 +13,6 @@
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1665486102777_6" label="" name="">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taco-cloud-sd-cassandra" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taco-cloud-sd-mongodb" type="4"/>
-<item TAG_MARKER_ID="2372" TAG_RESOURCE_FACTORY_ID="org.eclipse.ui.internal.model.ResourceFactory" factoryID="org.eclipse.debug.ui.elementFactory.breakpoints" path="/taco-cloud-sfc/src/main/java/tacos/User.java" type="1"/>
-<item TAG_MARKER_ID="2373" TAG_RESOURCE_FACTORY_ID="org.eclipse.ui.internal.model.ResourceFactory" factoryID="org.eclipse.debug.ui.elementFactory.breakpoints" path="/taco-cloud-sfc/src/main/java/tacos/User.java" type="1"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1664958686821_2" label="Window Working Set" name="Aggregate for window 1664958686821"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1664959290247_3" label="Window Working Set" name="Aggregate for window 1664959290247"/>
